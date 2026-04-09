@@ -1,2 +1,3 @@
 [build]
+  publish = "cifrei"
   functions = "netlify/functions"
